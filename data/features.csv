@@ -1,0 +1,82 @@
+url,word_count,sentence_count,flesch_reading_ease,top_keywords
+https://www.cm-alliance.com/cybersecurity-blog,2,1,-91.29499999999996,cybersecurity|blog
+https://www.varonis.com/blog/cybersecurity-tips,1747,94,40.87169891158419,varonis|data|access|security|app
+https://www.cisecurity.org/insights/blog/11-cyber-defense-tips-to-stay-secure-at-work-and-home,1058,73,53.26291793973047,password|passphrase|cyber defense|authentication|don
+https://www.cisa.gov/topics/cybersecurity-best-practices,779,27,1.0356976744186,cisa|cybersecurity|cyber|cybersecurity best|practices
+https://www.qnbtrust.bank/Resources/Learning-Center/Blog/7-cyber-security-tips,0,0,0.0,
+https://nordlayer.com/learn/network-security/basics/,2188,181,25.769415150604516,network|security|monitoring|access|devices
+https://www.fortinet.com/resources/cyberglossary/what-is-network-security,4443,243,16.961719935194054,network|security|network security|cloud|access
+https://www.cisco.com/site/us/en/learn/topics/security/what-is-network-security.html,1106,68,26.290415601023057,security|network|cisco|network security|access
+https://www.trendmicro.com/en_us/what-is/network-security/network-security-basics.html,2129,133,42.948141307797414,security|network|encryption|authentication|key
+https://digitdefence.com/blog/fundamentals-of-network-security-in-computer-networks,2131,133,19.423884937611433,network|security|data|access|network security
+https://guardiandigital.com/resources/blog/guide-on-phishing,2007,141,55.58587951807232,phishing|phishing attacks|attacks|email|protection
+https://cofense.com/blog,58,5,28.778241379310373,phishing|insights|threat intelligence|ll learn|sourced
+https://www.connectwise.com/blog/phishing-prevention-tips,0,0,0.0,
+https://www.phriendlyphishing.com/blog,30,2,32.48928571428573,phishing|awareness|date latest|terms conditions|security awareness
+https://inspiredelearning.com/blog/phishing-protection-checklist/,1175,59,30.870166916729204,phishing|phishing attacks|attacks|inspired elearning|elearning
+https://en.wikipedia.org/wiki/SD-WAN,3587,245,31.93775989981367,wan|sd|sd wan|retrieved|network
+https://www.cisco.com/site/us/en/learn/topics/networking/what-is-sd-wan.html,877,43,19.503592235601985,wan|sd wan|sd|cisco|cloud
+https://www.fortinet.com/resources/cyberglossary/sd-wan-explained,2560,134,10.243392939788038,wan|sd|sd wan|network|security
+https://www.hpe.com/us/en/what-is/sd-wan.html,0,0,0.0,
+https://remotedesktop.google.com/,0,0,0.0,
+https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c,0,0,0.0,
+https://support.apple.com/guide/remote-desktop/welcome/mac,436,5,-41.36520183486236,remote desktop|client|observe|computers|window
+https://en.wikipedia.org/wiki/Remote_desktop_software,2154,135,27.687726991854703,remote|remote desktop|desktop|computer|software
+https://www.cloudflare.com/learning/access-management/what-is-ztna/,0,0,0.0,
+https://www.fortinet.com/solutions/enterprise-midsize-business/network-access/application-access,2400,76,25.158265306122473,ztna|fortinet|universal ztna|gartner|fortinet universal
+https://www.microsoft.com/en-us/security/business/security-101/what-is-zero-trust-network-access-ztna,2306,126,15.337454877946271,ztna|access|network|zero trust|security
+https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-access,1715,107,29.006533053245306,ztna|access|network|vpns|users
+https://www.efax.com/,1468,84,39.25117741130771,fax|efax|faxes|faxing|online
+https://sign.dropbox.com/products/dropbox-fax,490,34,58.06080312325713,fax|faxes|dropbox|dropbox fax|send
+https://www.fax.plus/,663,29,29.59568385968231,fax|faxes|faxing|fax plus|online
+https://comfax.com/reviews/free-fax/,5036,234,59.846473803035096,fax|free|faxes|free fax|faxing
+https://nytlicensing.com/latest/trends/content-marketing-best-practices-2022/,3114,175,43.960912785199184,content|marketing|content marketing|audience|industry
+https://copyblogger.com/content-marketing/,6283,300,49.21481341740315,content|marketing|content marketing|audience|podcast
+https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices,5674,396,52.164667099973,content|marketing|content marketing|best|best practices
+https://www.akkio.com/beginners-guide-to-machine-learning,22129,961,44.38468667112292,data|learning|machine learning|machine|ai
+https://medium.com/@amitvsolutions/machine-learning-101-the-complete-beginners-guide-to-machine-learning-686a30cbcf6b,3190,149,38.14764452251677,learning|data|model|machine learning|enter click
+https://realpython.com/tutorials/data-science/,954,24,13.271922458570373,python|data science|intermediate|2025 intermediate|science
+https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/,0,0,0.0,
+https://jakevdp.github.io/PythonDataScienceHandbook/,325,10,9.266547770700669,ipython|depth|arrays|customizing|numpy
+https://www.w3schools.com/datascience/,184,11,50.595778388278376,python|ds|data|tutorial|data science
+https://towardsdatascience.com/machine-learning-basics-with-examples-part-1-c2d37247ec3d,0,0,0.0,
+https://www.analyticsvidhya.com/blog/2021/09/comprehensive-guide-on-machine-learning/,0,0,0.0,
+https://aws.amazon.com/what-is/deep-learning/,2205,135,36.81302696053655,deep learning|learning|deep|generative|generative ai
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide,4016,167,54.422401073105334,search|site|google|content|google search
+https://digitalmarketinginstitute.com/blog/what-is-seo,243,10,24.878203862660968,cathal|melinn|marketing|search|digital
+https://www.coursera.org/articles/content-strategy,1737,97,48.53271996096316,content|content strategy|strategy|audience|goals
+https://www.youtube.com/creators/how-things-work/content-creation-strategy/,855,40,56.6307807170904,viewers|creator|channel|tips|creator tips
+https://digitalmarketinginstitute.com/blog/what-are-the-most-effective-digital-marketing-strategies,125,5,11.899068965517245,strategy|brien|digital|marketing|omnichannel
+https://emotive.io/blog/11-essential-digital-marketing-tips,2241,113,44.94902902007556,marketing|digital|digital marketing|content|customers
+https://www.forbes.com/advisor/business/what-is-digital-marketing/,3087,150,36.03498083726416,marketing|digital marketing|digital|email|seo
+https://blog.hubspot.com/marketing/what-is-digital-marketing,8848,493,45.70128439652592,marketing|digital|digital marketing|content|media
+https://www.investopedia.com/terms/s/seo.asp,0,0,0.0,
+https://mailchimp.com/marketing-glossary/content-marketing/,2107,118,49.06963191115375,content|content marketing|marketing|stage|audience
+https://sproutsocial.com/insights/social-media-marketing-strategy/,10323,465,37.20608921478083,social|social media|media|marketing|media marketing
+https://www.shopify.com/blog/ecommerce-seo-beginners-guide,5274,295,54.81999615913321,ecommerce|seo|ecommerce seo|shopify|google
+https://www.dollardays.com/?srsltid=AfmBOopXjdOu2Kwq6fwYN9FPfB19MorSOf5UyS0EisxFSAzOm8wbl8KF,0,0,0.0,
+https://www.woot.com/,102,11,60.555727272727296,woot|shipping|amazon prime|deals|prime
+https://www.shopmissa.com/?srsltid=AfmBOoqr-F6zzKR-vGPqksAZp1wW4niXlINdN2eAREiMVNtHez_0-gAB,1414,1,84.90732685736816,quick buy|buy aoa|aoa|quick|reviews quick
+https://martie.com/?srsltid=AfmBOoqTEC0QXQ3xYEvV1VWP6OX6EZboYFZDuiiilhyLfDJNbuXIZ97r,5086,17,103.39199641553986,add cart|cart add|cart|add|oz
+https://www.dealsofamerica.com/,4675,145,76.70688072056305,click add|view info|add cart|deal|info
+https://www.dealnews.com/,3522,122,54.664061151190054,amazon|staff pick|popular deal|hrs|hrs ago
+https://viewyourdeal.com/,543,30,85.80691942708948,retail|deal|retail deal|free shipping|shipping orders
+https://americasstealsanddeals.com/,763,74,83.88429276693456,99|00|retail|99 retail|deal
+https://www.pricegrabber.com/,227,9,20.29844334433446,health beauty|supplies|furniture|toys|cameras
+https://www.wikihow.com/Make-Money-Online,4216,251,57.93072613420054,quiz|research source|money|online|selling
+https://en.wikipedia.org/wiki/Search_engine_optimization,6399,513,52.050264034574354,search|google|retrieved|archived original|archived
+https://simple.wikipedia.org/wiki/Search_engine_optimization,1100,83,42.90690471240475,seo|search|change|hat|retrieved
+https://en.wikipedia.org/wiki/Content_marketing,3522,250,38.99755319404278,marketing|content|content marketing|retrieved|2016
+https://simple.wikipedia.org/wiki/Content_marketing,344,25,35.06797854785481,marketing|content marketing|content|change|source content
+https://en.wikipedia.org/wiki/Machine_learning,18598,1394,30.607828297132727,learning|machine learning|machine|archived|retrieved
+https://simple.wikipedia.org/wiki/Machine_learning,1596,77,-3.4003078694727265,learning|machine|machine learning|neural|network
+https://en.wikipedia.org/wiki/Artificial_intelligence,36864,3048,42.06699084187534,ai|archived|retrieved|archived original|2024
+https://simple.wikipedia.org/wiki/Artificial_intelligence,3228,154,11.334894393999235,intelligence|artificial|ai|artificial intelligence|neural
+https://en.wikipedia.org/wiki/Digital_marketing,11245,863,35.67311202902354,marketing|digital|digital marketing|advertising|brand
+https://simple.wikipedia.org/wiki/Digital_marketing,210,14,16.795909090909134,marketing|digital marketing|digital|traditional marketing|change
+https://www.reuters.com/technology/artificial-intelligence/,0,0,0.0,
+https://www.cnbc.com/artificial-intelligence/,0,0,0.0,
+https://www.bbc.com/news/topics/c404v061z99t,0,0,0.0,
+https://www.theguardian.com/technology/artificialintelligenceai,275,5,24.59078431372552,ai|amid|october 2025|firefox|october
+https://apnews.com/hub/artificial-intelligence,537,6,-18.804301675977626,ai|nvidia|openai|trillion|google chrome
+https://abcnews.go.com/alerts/technology,2014,60,40.64494147031388,months ago|ago|months|ago months|pm
