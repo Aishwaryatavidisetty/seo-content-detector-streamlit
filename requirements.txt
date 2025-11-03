@@ -1,0 +1,13 @@
+streamlit
+beautifulsoup4
+lxml
+requests
+pandas
+numpy
+scikit-learn
+textstat
+nltk
+joblib
+tqdm
+# Optional for embeddings; if you include it, Streamlit Cloud builds may take longer:
+# sentence-transformers
